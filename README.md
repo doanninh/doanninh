@@ -1,5 +1,5 @@
 
-### Hi, I'm Quan Nguyen - aka [HenryNguyen][website] = Studying software engineer 🌱 
+### Hi, I'm Ninh Doan - aka [HenryNguyen][website] = Studying software engineer 🌱 
 
 
 - 🔭 I'm passionate about Machine Learning and Data Engineering
@@ -38,6 +38,6 @@
 
 ### 📫 Contact me via:
 
-[![Gmail]()](https://www.gmail.com/anhq46724)
+[![Gmail]()](https://www.gmail.com/doanninh091125)
 
-[website]: https://www.facebook.com/NguyennAnhhQuan
+[website]: https://www.facebook.com/Đoàn Ninh
